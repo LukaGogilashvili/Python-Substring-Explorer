@@ -19,8 +19,7 @@ An interactive, visual tool for learning Python string slicing operations. Perfe
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://lukagogilashvili.io/python-substring-explorer)
-
+[View Live Demo](https://lukagogilashvili.github.io/python-substring-explorer)
 ## 💻 Local Development
 
 ```bash
