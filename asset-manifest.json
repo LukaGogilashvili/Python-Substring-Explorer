@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/python-substring-explorer/static/css/main.68e41901.css",
+    "main.js": "/python-substring-explorer/static/js/main.38c5fc01.js",
+    "index.html": "/python-substring-explorer/index.html",
+    "main.68e41901.css.map": "/python-substring-explorer/static/css/main.68e41901.css.map",
+    "main.38c5fc01.js.map": "/python-substring-explorer/static/js/main.38c5fc01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68e41901.css",
+    "static/js/main.38c5fc01.js"
+  ]
+}
