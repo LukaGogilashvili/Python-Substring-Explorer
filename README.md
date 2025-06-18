@@ -24,13 +24,17 @@ An interactive, visual tool for learning Python string slicing operations. Perfe
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/python-substring-explorer.git
+git clone https://github.com/LukaGogilashvili/python-substring-explorer.git
 
 # Navigate to project directory
 cd python-substring-explorer
 
-# Install dependencies
-npm install
+# Install additional dependencies
+npm install lucide-react
+npm install -D tailwindcss postcss autoprefixer gh-pages
+
+# Initialize Tailwind CSS
+npx tailwindcss init -p
 
 # Start development server
 npm start
